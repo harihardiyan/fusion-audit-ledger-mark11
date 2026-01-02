@@ -1,0 +1,11 @@
+CSV audit ditulis ke: fleetmark11a_audit_fixed2.csv
+=== Mark 11a Audit Ledger (full stochastic, breed physical, fixed PRNG + static MC) ===
+Explicit losses total (last step): 88657726.70863418
+Total energy change ΔEtotal (fleet): -104102347502.68878
+Σ(losses over horizon): 298502347502.6887
+Σ(fusion over horizon): 194400000000.0
+Conservation check (ΔE_total + Σ(losses) - Σ(fusion)): -6.103515625e-05
+Final neutron queue total (fleet): 0.0
+Final breed store total (fleet): 8111046875.0
+Thermal consistency max |T(U)-T|: 0.0
+  
