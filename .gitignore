@@ -1,0 +1,11 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Output Data
+*.csv
+*.log
+
+# Virtual Environments
+venv/
+.env
